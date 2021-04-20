@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="constraintLayout" type="id">constraintLayout</item>
+    <item name="chatView" type="id">chatView</item>
+    <item name="editMessage" type="id">editMessage</item>
+    <item name="btnSend" type="id">btnSend</item>
+</resources>

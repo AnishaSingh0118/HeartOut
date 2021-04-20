@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106035214329",
+    "project_id": "heartout-afbf7",
+    "storage_bucket": "heartout-afbf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106035214329:android:81654a89654ee5490cef28",
+        "android_client_info": {
+          "package_name": "com.majorproject.heartout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106035214329-0tji8tmffca7mktur3p7l9jttqle0bbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majorproject.heartout",
+            "certificate_hash": "fed8dca35e6e897ef4d33d4dacf0843d3fcc5a28"
+          }
+        },
+        {
+          "client_id": "106035214329-c3b6i01takl2kpu3il3a8na51arfgpb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmsB_biKkA_fxpFR3rBOP5OoxGg4YMIQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106035214329-c3b6i01takl2kpu3il3a8na51arfgpb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
